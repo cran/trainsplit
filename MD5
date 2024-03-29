@@ -1,0 +1,8 @@
+4f3d7ce9b2f531fcbdce3b6dab88687d *DESCRIPTION
+d767ca83d0d176a5324e7009e7d51750 *LICENSE
+299ad024c060adad10fe442bf0ddab38 *NAMESPACE
+ca878c105db699355ee8f3d1024b29e2 *R/trainsplit.R
+3153643b4d0b147ff04d2b83e180b4c8 *README.md
+0bf57ba1d99bb8919057c3edfd582243 *man/trainsplit.Rd
+016d9498a8b031a0124e1aa9a9026bd4 *tests/testthat.R
+02ab9da2c5e098217b518378c1053eb3 *tests/testthat/test-trainsplit.R
