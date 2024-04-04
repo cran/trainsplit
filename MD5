@@ -1,8 +1,8 @@
-4f3d7ce9b2f531fcbdce3b6dab88687d *DESCRIPTION
+1c63e0a7563da5e8b7194215322b2fed *DESCRIPTION
 d767ca83d0d176a5324e7009e7d51750 *LICENSE
 299ad024c060adad10fe442bf0ddab38 *NAMESPACE
-ca878c105db699355ee8f3d1024b29e2 *R/trainsplit.R
+ab47597b575a1688623ecbbf097a697f *R/trainsplit.R
 3153643b4d0b147ff04d2b83e180b4c8 *README.md
-0bf57ba1d99bb8919057c3edfd582243 *man/trainsplit.Rd
+75d21f9a51e485f27e756b1f45bf0c28 *man/trainsplit.Rd
 016d9498a8b031a0124e1aa9a9026bd4 *tests/testthat.R
-02ab9da2c5e098217b518378c1053eb3 *tests/testthat/test-trainsplit.R
+324f05512a7487b6fa12cd94ef71c280 *tests/testthat/test-trainsplit.R
