@@ -1,7 +1,7 @@
 Package: trainsplit
 Title: Split a Dataframe, Tibble, or Data.table into Training and Test
         Sets
-Version: 1.1
+Version: 1.2
 Authors@R: 
     person("Zhaochen", "He", , "eastnileuc@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6579-5073"))
@@ -13,8 +13,8 @@ Imports: data.table
 Suggests: tibble, dplyr
 License: MIT + file LICENSE
 NeedsCompilation: no
-Packaged: 2024-04-03 21:56:47 UTC; Zhaochen He
+Packaged: 2025-01-13 16:47:23 UTC; Zhaochen He
 Author: Zhaochen He [aut, cre] (<https://orcid.org/0000-0002-6579-5073>)
 Maintainer: Zhaochen He <eastnileuc@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-04-04 23:10:02 UTC
+Date/Publication: 2025-01-13 17:10:02 UTC

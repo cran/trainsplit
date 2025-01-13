@@ -85,7 +85,7 @@ trainsplit = function(data, ntrain = NULL, trainpct = NULL,
          assign(paste0(origname, '_train'), train, pos = parent.frame())
          assign(paste0(origname, '_test'), test, pos = parent.frame())
       }
-      return(NULL)
+      return(invisible(NULL))
    }
 
    if (identical(return,'list')) {
